@@ -1,0 +1,32 @@
+body{
+  font-family: 'Merriweather', serif;
+  background-image: url(https://wallpapercave.com/download/subway-wallpapers-wp1926762);
+}
+
+.row{
+  margin:10px;
+}
+.jumbotron{
+  margin:10px;
+  text-align: center;
+  padding:0;
+  background-color: #212F3C
+
+
+}
+.jumbotron h1{
+  font-size: 90px;
+  color: white;
+
+}
+
+.card-header{
+  padding-bottom: 5px;
+  background-color: #212F3D
+
+
+}
+.card-header h4{
+  font-size: 14pt;
+  color:white;
+}
