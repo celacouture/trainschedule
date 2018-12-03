@@ -1,4 +1,4 @@
 # trainschedule
 
-Built with 
+Built with HTML5, Bootstrap, jQuery, and Firebase. 
 
